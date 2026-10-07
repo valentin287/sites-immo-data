@@ -79,7 +79,7 @@ export async function collecter(alias, fetchFn = fetch) {
   let avis = null;
   if (m.immodvisorId && m.immodvisorKey) {
     try {
-      const u = `https://widget3.immodvisor.com/rating?cid=${m.immodvisorId}&hash=${encodeURIComponent(m.immodvisorKey)}&ctype=company&wording=plural`;
+      const u = `https://widget3.immodvisor.com/rating?cid=${m.immodvisorId}&hash=${encodeURIComponent(m.immodvisorKey)}&ctype=company&fp=&redirect=&wording=plural&noStats=false&talign=150&valign=right&pos=fixed&enable=true`;
       const r = await fetchFn(u, { headers: { 'User-Agent': UA['User-Agent'] } });
       if (r.ok) avis = lireAvis(await r.text());
     } catch { /* avis gardés depuis le fichier précédent */ }
