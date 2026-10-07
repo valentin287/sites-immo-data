@@ -65,7 +65,7 @@ async function getJSON(url, fetchFn) {
 
 export function lireAvis(html) {
   const count = Number((html.match(/(\d+)\s*avis/i) || [])[1] || 0);
-  const note = Number(((html.match(/(\d[.,]\d)\s*(?:\/\s*5|<)/) || [])[1] || '').replace(',', '.'));
+  const note = Number(((html.match(/imdw-rating-first"[^>]*>\s*(\d+(?:[.,]\d+)?)/) || html.match(/(\d[.,]\d)\s*(?:\/\s*5|<)/) || [])[1] || '').replace(',', '.'));
   return (count > 0 && note > 0 && note <= 5) ? { count, note } : null;
 }
 
