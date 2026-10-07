@@ -1,7 +1,11 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-10-07T17:50:39.055Z",
-  "avis": null,
+  "maj": "2026-10-07T17:53:29.270Z",
+  "avis": {
+    "count": 100,
+    "note": 4.9,
+    "url": ""
+  },
   "enVente": [
     {
       "ref": "449008BJG",
