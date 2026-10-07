@@ -1,0 +1,27 @@
+name: Mise à jour des sites immo
+
+on:
+  schedule:
+    - cron: '0 4,16 * * *'     # tous les jours à 6h et 18h (heure de Paris, été)
+  workflow_dispatch: {}         # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Récupérer les annonces et les avis
+        run: node update.mjs
+      - name: Enregistrer les données à jour
+        if: always()
+        run: |
+          git config user.name  "robot-sites-immo"
+          git config user.email "robot@users.noreply.github.com"
+          git add data/*.json
+          git diff --cached --quiet || (git commit -m "Mise à jour annonces et avis" && git push)
