@@ -1,12 +1,42 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-10-15T08:42:41.485Z",
+  "maj": "2026-10-15T19:35:00.492Z",
   "avis": {
     "count": 55,
     "note": 5,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "457592KRD",
+      "type": "Maison",
+      "titre": "Maison individuelle 4 chambres avec jardin de 900 m² à Collonges (01550)",
+      "ville": "Collonges",
+      "cp": "01550",
+      "prix": 563000,
+      "prix_txt": "563 000 €",
+      "surface": "128 m²",
+      "pieces": "5 pièces",
+      "chambres": "4 ch.",
+      "statut": "",
+      "url": "https://www.proprietes-privees.com/annonces/457592KRD",
+      "image": "https://images.proprietes-privees.com/annonce/457592KRD/PROPRIETES-PRIVEES-457592KRD-1.jpg"
+    },
+    {
+      "ref": "445981KRD",
+      "type": "Maison",
+      "titre": "Savigny (74520)",
+      "ville": "Savigny",
+      "cp": "74520",
+      "prix": 740000,
+      "prix_txt": "740 000 €",
+      "surface": "155 m²",
+      "pieces": "6 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/445981KRD",
+      "image": "https://images.proprietes-privees.com/annonce/445981KRD/PROPRIETES-PRIVEES-445981KRD-1.jpg"
+    },
     {
       "ref": "462167KRD",
       "type": "Maison",
@@ -141,21 +171,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/460785KRD",
       "image": "https://images.proprietes-privees.com/annonce/460785KRD/PROPRIETES-PRIVEES-460785KRD-1.jpg"
-    },
-    {
-      "ref": "457592KRD",
-      "type": "Maison",
-      "titre": "Maison individuelle 128 m²",
-      "ville": "Collonges",
-      "cp": "01550",
-      "prix": 570000,
-      "prix_txt": "570 000 €",
-      "surface": "128 m²",
-      "pieces": "5 pièces",
-      "chambres": "4 ch.",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/457592KRD",
-      "image": "https://images.proprietes-privees.com/annonce/457592KRD/PROPRIETES-PRIVEES-457592KRD-1.jpg"
     },
     {
       "ref": "461994KRD",
