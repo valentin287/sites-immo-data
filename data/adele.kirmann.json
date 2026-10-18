@@ -1,12 +1,42 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-10-15T19:35:00.492Z",
+  "maj": "2026-10-18T08:26:08.005Z",
   "avis": {
     "count": 55,
     "note": 5,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "469407KRD",
+      "type": "Maison",
+      "titre": "Savigny (74520)",
+      "ville": "Savigny",
+      "cp": "74520",
+      "prix": 740000,
+      "prix_txt": "740 000 €",
+      "surface": "155 m²",
+      "pieces": "6 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/469407KRD",
+      "image": "https://images.proprietes-privees.com/annonce/469407KRD/PROPRIETES-PRIVEES-469407KRD-1.jpg"
+    },
+    {
+      "ref": "463501KRD",
+      "type": "Maison",
+      "titre": "Maison de village 112 m² avec jardin à Collonges (01550)",
+      "ville": "Collonges",
+      "cp": "01550",
+      "prix": 428000,
+      "prix_txt": "428 000 €",
+      "surface": "112 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/463501KRD",
+      "image": "https://images.proprietes-privees.com/annonce/463501KRD/PROPRIETES-PRIVEES-463501KRD-1.jpg"
+    },
     {
       "ref": "457592KRD",
       "type": "Maison",
@@ -21,21 +51,6 @@
       "statut": "",
       "url": "https://www.proprietes-privees.com/annonces/457592KRD",
       "image": "https://images.proprietes-privees.com/annonce/457592KRD/PROPRIETES-PRIVEES-457592KRD-1.jpg"
-    },
-    {
-      "ref": "445981KRD",
-      "type": "Maison",
-      "titre": "Savigny (74520)",
-      "ville": "Savigny",
-      "cp": "74520",
-      "prix": 740000,
-      "prix_txt": "740 000 €",
-      "surface": "155 m²",
-      "pieces": "6 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/445981KRD",
-      "image": "https://images.proprietes-privees.com/annonce/445981KRD/PROPRIETES-PRIVEES-445981KRD-1.jpg"
     },
     {
       "ref": "462167KRD",
@@ -141,21 +156,6 @@
       "statut": "",
       "url": "https://www.proprietes-privees.com/annonces/442721KRD",
       "image": "https://images.proprietes-privees.com/annonce/442721KRD/PROPRIETES-PRIVEES-442721KRD-1.jpg"
-    },
-    {
-      "ref": "463501KRD",
-      "type": "Maison",
-      "titre": "Maison de village 112 m² avec jardin à Collonges (01550)",
-      "ville": "Collonges",
-      "cp": "01550",
-      "prix": 428000,
-      "prix_txt": "428 000 €",
-      "surface": "112 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/463501KRD",
-      "image": "https://images.proprietes-privees.com/annonce/463501KRD/PROPRIETES-PRIVEES-463501KRD-1.jpg"
     },
     {
       "ref": "460785KRD",
