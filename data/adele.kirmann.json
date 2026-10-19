@@ -1,6 +1,6 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-10-19T09:27:03.212Z",
+  "maj": "2026-10-19T20:48:38.602Z",
   "avis": {
     "count": 55,
     "note": 5,
@@ -246,21 +246,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/432264KRD",
       "image": "https://images.proprietes-privees.com/annonce/432264KRD/PROPRIETES-PRIVEES-432264KRD-1.jpg"
-    },
-    {
-      "ref": "433485KRD",
-      "type": "Maison",
-      "titre": "Manigod 74230 – Chalet 4 pièces avec vue imprenable sur la Tournette",
-      "ville": "Manigod",
-      "cp": "74230",
-      "prix": 597000,
-      "prix_txt": "597 000 €",
-      "surface": "72 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/433485KRD",
-      "image": "https://images.proprietes-privees.com/annonce/433485KRD/PROPRIETES-PRIVEES-433485KRD-1.jpg"
     }
   ],
   "vendus": [
