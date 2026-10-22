@@ -1,12 +1,27 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-10-20T19:45:42.886Z",
+  "maj": "2026-10-22T19:39:15.841Z",
   "avis": {
     "count": 100,
     "note": 4.9,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "466699BJG",
+      "type": "Maison",
+      "titre": "Maison de village Pringy",
+      "ville": "Pringy",
+      "cp": "74370",
+      "prix": 549000,
+      "prix_txt": "549 000 €",
+      "surface": "114 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/466699BJG",
+      "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
+    },
     {
       "ref": "468000BJG",
       "type": "Maison",
@@ -36,21 +51,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/468737BJG",
       "image": "https://images.proprietes-privees.com/annonce/468737BJG/PROPRIETES-PRIVEES-468737BJG-1.jpg"
-    },
-    {
-      "ref": "466699BJG",
-      "type": "Maison",
-      "titre": "Maison de village Pringy",
-      "ville": "Pringy",
-      "cp": "74370",
-      "prix": 549000,
-      "prix_txt": "549 000 €",
-      "surface": "114 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/466699BJG",
-      "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
     },
     {
       "ref": "449008BJG",
