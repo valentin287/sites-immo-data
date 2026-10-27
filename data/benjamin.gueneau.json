@@ -1,6 +1,6 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-10-27T09:27:59.480Z",
+  "maj": "2026-10-27T20:19:39.668Z",
   "avis": {
     "count": 100,
     "note": 4.9,
@@ -8,7 +8,7 @@
   },
   "enVente": [
     {
-      "ref": "449008BJG",
+      "ref": "470381BJG",
       "type": "Terrain",
       "titre": "Terrain viabilisé à bâtir",
       "ville": "Rumilly",
@@ -19,11 +19,11 @@
       "pieces": "",
       "chambres": "",
       "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/449008BJG",
-      "image": "https://images.proprietes-privees.com/annonce/449008BJG/PROPRIETES-PRIVEES-449008BJG-1.jpg"
+      "url": "https://www.proprietes-privees.com/annonces/470381BJG",
+      "image": "https://images.proprietes-privees.com/annonce/470381BJG/PROPRIETES-PRIVEES-470381BJG-1.jpg"
     },
     {
-      "ref": "449009BJG",
+      "ref": "470384BJG",
       "type": "Terrain",
       "titre": "Terrain viabilisé à bâtir",
       "ville": "Rumilly",
@@ -34,8 +34,8 @@
       "pieces": "",
       "chambres": "",
       "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/449009BJG",
-      "image": "https://images.proprietes-privees.com/annonce/449009BJG/PROPRIETES-PRIVEES-449009BJG-1.jpg"
+      "url": "https://www.proprietes-privees.com/annonces/470384BJG",
+      "image": "https://images.proprietes-privees.com/annonce/470384BJG/PROPRIETES-PRIVEES-470384BJG-1.jpg"
     },
     {
       "ref": "466699BJG",
