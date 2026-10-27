@@ -1,12 +1,42 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-10-22T19:39:15.841Z",
+  "maj": "2026-10-27T09:27:59.480Z",
   "avis": {
     "count": 100,
     "note": 4.9,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "449008BJG",
+      "type": "Terrain",
+      "titre": "Terrain viabilisé à bâtir",
+      "ville": "Rumilly",
+      "cp": "74150",
+      "prix": 153000,
+      "prix_txt": "153 000 €",
+      "surface": "520 m²",
+      "pieces": "",
+      "chambres": "",
+      "statut": "",
+      "url": "https://www.proprietes-privees.com/annonces/449008BJG",
+      "image": "https://images.proprietes-privees.com/annonce/449008BJG/PROPRIETES-PRIVEES-449008BJG-1.jpg"
+    },
+    {
+      "ref": "449009BJG",
+      "type": "Terrain",
+      "titre": "Terrain viabilisé à bâtir",
+      "ville": "Rumilly",
+      "cp": "74150",
+      "prix": 136000,
+      "prix_txt": "136 000 €",
+      "surface": "465 m²",
+      "pieces": "",
+      "chambres": "",
+      "statut": "",
+      "url": "https://www.proprietes-privees.com/annonces/449009BJG",
+      "image": "https://images.proprietes-privees.com/annonce/449009BJG/PROPRIETES-PRIVEES-449009BJG-1.jpg"
+    },
     {
       "ref": "466699BJG",
       "type": "Maison",
@@ -51,36 +81,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/468737BJG",
       "image": "https://images.proprietes-privees.com/annonce/468737BJG/PROPRIETES-PRIVEES-468737BJG-1.jpg"
-    },
-    {
-      "ref": "449008BJG",
-      "type": "Terrain",
-      "titre": "Terrain viabilisé à bâtir",
-      "ville": "Rumilly",
-      "cp": "74150",
-      "prix": 153000,
-      "prix_txt": "153 000 €",
-      "surface": "520 m²",
-      "pieces": "",
-      "chambres": "",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/449008BJG",
-      "image": "https://images.proprietes-privees.com/annonce/449008BJG/PROPRIETES-PRIVEES-449008BJG-1.jpg"
-    },
-    {
-      "ref": "449009BJG",
-      "type": "Terrain",
-      "titre": "Terrain viabilisé à bâtir",
-      "ville": "Rumilly",
-      "cp": "74150",
-      "prix": 136000,
-      "prix_txt": "136 000 €",
-      "surface": "465 m²",
-      "pieces": "",
-      "chambres": "",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/449009BJG",
-      "image": "https://images.proprietes-privees.com/annonce/449009BJG/PROPRIETES-PRIVEES-449009BJG-1.jpg"
     },
     {
       "ref": "432683BJG",
