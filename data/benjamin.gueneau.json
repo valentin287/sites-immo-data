@@ -1,12 +1,27 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-10-27T20:19:39.668Z",
+  "maj": "2026-10-28T20:42:00.865Z",
   "avis": {
     "count": 100,
     "note": 4.9,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "468000BJG",
+      "type": "Maison",
+      "titre": "Maison  individuelle",
+      "ville": "Albens",
+      "cp": "73410",
+      "prix": 565000,
+      "prix_txt": "565 000 €",
+      "surface": "165 m²",
+      "pieces": "7 pièces",
+      "chambres": "6 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/468000BJG",
+      "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
+    },
     {
       "ref": "470381BJG",
       "type": "Terrain",
@@ -51,21 +66,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/466699BJG",
       "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
-    },
-    {
-      "ref": "468000BJG",
-      "type": "Maison",
-      "titre": "Maison  individuelle",
-      "ville": "Albens",
-      "cp": "73410",
-      "prix": 565000,
-      "prix_txt": "565 000 €",
-      "surface": "165 m²",
-      "pieces": "7 pièces",
-      "chambres": "6 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/468000BJG",
-      "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
     },
     {
       "ref": "468737BJG",
