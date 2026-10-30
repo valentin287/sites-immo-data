@@ -1,6 +1,6 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-10-28T20:42:00.865Z",
+  "maj": "2026-10-30T20:17:04.005Z",
   "avis": {
     "count": 100,
     "note": 4.9,
@@ -21,6 +21,21 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/468000BJG",
       "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
+    },
+    {
+      "ref": "468737BJG",
+      "type": "Maison",
+      "titre": "Rumilly sud  – Maison de 2017, 3 chambres, jardin, DPE B",
+      "ville": "Rumilly",
+      "cp": "74150",
+      "prix": 359000,
+      "prix_txt": "359 000 €",
+      "surface": "90 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/468737BJG",
+      "image": "https://images.proprietes-privees.com/annonce/468737BJG/PROPRIETES-PRIVEES-468737BJG-1.jpg"
     },
     {
       "ref": "470381BJG",
@@ -66,21 +81,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/466699BJG",
       "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
-    },
-    {
-      "ref": "468737BJG",
-      "type": "Maison",
-      "titre": "Rumilly sud  – Maison de 2017, 3 chambres, jardin, DPE B",
-      "ville": "Rumilly",
-      "cp": "74150",
-      "prix": 359000,
-      "prix_txt": "359 000 €",
-      "surface": "90 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/468737BJG",
-      "image": "https://images.proprietes-privees.com/annonce/468737BJG/PROPRIETES-PRIVEES-468737BJG-1.jpg"
     },
     {
       "ref": "432683BJG",
