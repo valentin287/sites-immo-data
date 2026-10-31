@@ -1,12 +1,27 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-10-30T20:17:04.005Z",
+  "maj": "2026-10-31T10:03:59.008Z",
   "avis": {
     "count": 100,
     "note": 4.9,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "466699BJG",
+      "type": "Maison",
+      "titre": "Maison de village Pringy",
+      "ville": "Annecy",
+      "cp": "74000",
+      "prix": 549000,
+      "prix_txt": "549 000 €",
+      "surface": "114 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/466699BJG",
+      "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
+    },
     {
       "ref": "468000BJG",
       "type": "Maison",
@@ -66,21 +81,6 @@
       "statut": "",
       "url": "https://www.proprietes-privees.com/annonces/470384BJG",
       "image": "https://images.proprietes-privees.com/annonce/470384BJG/PROPRIETES-PRIVEES-470384BJG-1.jpg"
-    },
-    {
-      "ref": "466699BJG",
-      "type": "Maison",
-      "titre": "Maison de village Pringy",
-      "ville": "Pringy",
-      "cp": "74370",
-      "prix": 549000,
-      "prix_txt": "549 000 €",
-      "surface": "114 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/466699BJG",
-      "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
     },
     {
       "ref": "432683BJG",
