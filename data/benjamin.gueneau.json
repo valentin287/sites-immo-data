@@ -1,6 +1,6 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-10-31T10:03:59.008Z",
+  "maj": "2026-11-03T11:29:41.220Z",
   "avis": {
     "count": 100,
     "note": 4.9,
@@ -81,21 +81,6 @@
       "statut": "",
       "url": "https://www.proprietes-privees.com/annonces/470384BJG",
       "image": "https://images.proprietes-privees.com/annonce/470384BJG/PROPRIETES-PRIVEES-470384BJG-1.jpg"
-    },
-    {
-      "ref": "432683BJG",
-      "type": "Terrain",
-      "titre": "Terrain Aix les Bains 475 m2",
-      "ville": "Aix-les-Bains",
-      "cp": "73100",
-      "prix": 165000,
-      "prix_txt": "165 000 €",
-      "surface": "475 m²",
-      "pieces": "",
-      "chambres": "",
-      "statut": "Sous compromis",
-      "url": "https://www.proprietes-privees.com/annonces/432683BJG",
-      "image": "https://images.proprietes-privees.com/annonce/432683BJG/PROPRIETES-PRIVEES-432683BJG-1.jpg"
     }
   ],
   "vendus": [
