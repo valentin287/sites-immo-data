@@ -1,6 +1,6 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-11-03T11:29:41.220Z",
+  "maj": "2026-11-03T21:23:01.015Z",
   "avis": {
     "count": 100,
     "note": 4.9,
@@ -84,6 +84,21 @@
     }
   ],
   "vendus": [
+    {
+      "ref": "432683BJG",
+      "type": "Terrain",
+      "titre": "Terrain Aix les Bains 475 m2",
+      "ville": "Aix-les-Bains",
+      "cp": "73100",
+      "prix": 165000,
+      "prix_txt": "165 000 €",
+      "surface": "475 m²",
+      "pieces": "",
+      "chambres": "",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/432683BJG",
+      "image": "https://images.proprietes-privees.com/annonce/432683BJG/PROPRIETES-PRIVEES-432683BJG-1.jpg"
+    },
     {
       "ref": "434099BJG",
       "type": "Terrain",
@@ -1268,21 +1283,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/186798BJG",
       "image": "https://images.proprietes-privees.com/annonce/186798BJG/PROPRIETES-PRIVEES-186798BJG-1.jpg"
-    },
-    {
-      "ref": "187677BJG",
-      "type": "Maison",
-      "titre": "Maison individuelle",
-      "ville": "Gruffy",
-      "cp": "74540",
-      "prix": 399000,
-      "prix_txt": "399 000 €",
-      "surface": "110 m²",
-      "pieces": "5 pièces",
-      "chambres": "4 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/187677BJG",
-      "image": "https://images.proprietes-privees.com/annonce/187677BJG/PROPRIETES-PRIVEES-187677BJG-1.jpg"
     }
   ],
   "loues": []
