@@ -1,6 +1,6 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-11-04T21:38:01.673Z",
+  "maj": "2026-11-05T21:42:24.090Z",
   "avis": {
     "count": 100,
     "note": 4.9,
@@ -8,19 +8,34 @@
   },
   "enVente": [
     {
-      "ref": "468000BJG",
+      "ref": "471147BJG",
       "type": "Maison",
-      "titre": "Maison  individuelle",
-      "ville": "Albens",
-      "cp": "73410",
-      "prix": 565000,
-      "prix_txt": "565 000 €",
-      "surface": "152 m²",
-      "pieces": "7 pièces",
-      "chambres": "6 ch.",
+      "titre": "Château – XVIème siècle avec piscine",
+      "ville": "Marcellaz-Albanais",
+      "cp": "74150",
+      "prix": 1680000,
+      "prix_txt": "1 680 000 €",
+      "surface": "460 m²",
+      "pieces": "14 pièces",
+      "chambres": "7 ch.",
+      "statut": "",
+      "url": "https://www.proprietes-privees.com/annonces/471147BJG",
+      "image": "https://images.proprietes-privees.com/annonce/471147BJG/PROPRIETES-PRIVEES-471147BJG-1.jpg"
+    },
+    {
+      "ref": "466699BJG",
+      "type": "Maison",
+      "titre": "Maison + Studio",
+      "ville": "Annecy",
+      "cp": "74000",
+      "prix": 549000,
+      "prix_txt": "549 000 €",
+      "surface": "115 m²",
+      "pieces": "5 pièces",
+      "chambres": "4 ch.",
       "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/468000BJG",
-      "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
+      "url": "https://www.proprietes-privees.com/annonces/466699BJG",
+      "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
     },
     {
       "ref": "468737BJG",
@@ -38,19 +53,19 @@
       "image": "https://images.proprietes-privees.com/annonce/468737BJG/PROPRIETES-PRIVEES-468737BJG-1.jpg"
     },
     {
-      "ref": "466699BJG",
+      "ref": "468000BJG",
       "type": "Maison",
-      "titre": "Maison de village Pringy",
-      "ville": "Annecy",
-      "cp": "74000",
-      "prix": 549000,
-      "prix_txt": "549 000 €",
-      "surface": "114 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
+      "titre": "Maison  individuelle",
+      "ville": "Albens",
+      "cp": "73410",
+      "prix": 565000,
+      "prix_txt": "565 000 €",
+      "surface": "152 m²",
+      "pieces": "7 pièces",
+      "chambres": "6 ch.",
       "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/466699BJG",
-      "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
+      "url": "https://www.proprietes-privees.com/annonces/468000BJG",
+      "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
     },
     {
       "ref": "470381BJG",
