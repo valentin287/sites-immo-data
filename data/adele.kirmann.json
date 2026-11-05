@@ -1,12 +1,27 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-11-04T21:38:03.442Z",
+  "maj": "2026-11-05T11:44:27.134Z",
   "avis": {
     "count": 55,
     "note": 5,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "462167KRD",
+      "type": "Maison",
+      "titre": "Maison individuelle",
+      "ville": "Collonges",
+      "cp": "01550",
+      "prix": 640000,
+      "prix_txt": "640 000 €",
+      "surface": "130 m²",
+      "pieces": "6 pièces",
+      "chambres": "4 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/462167KRD",
+      "image": "https://images.proprietes-privees.com/annonce/462167KRD/PROPRIETES-PRIVEES-462167KRD-1.jpg"
+    },
     {
       "ref": "470970KRD",
       "type": "Maison",
@@ -51,21 +66,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/440544KRD",
       "image": "https://images.proprietes-privees.com/annonce/440544KRD/PROPRIETES-PRIVEES-440544KRD-1.jpg"
-    },
-    {
-      "ref": "462167KRD",
-      "type": "Maison",
-      "titre": "Maison individuelle",
-      "ville": "Collonges",
-      "cp": "01550",
-      "prix": 640000,
-      "prix_txt": "640 000 €",
-      "surface": "130 m²",
-      "pieces": "6 pièces",
-      "chambres": "4 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/462167KRD",
-      "image": "https://images.proprietes-privees.com/annonce/462167KRD/PROPRIETES-PRIVEES-462167KRD-1.jpg"
     },
     {
       "ref": "461516KRD",
