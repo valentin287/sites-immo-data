@@ -1,12 +1,27 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-11-05T11:44:27.134Z",
+  "maj": "2026-11-06T11:42:18.234Z",
   "avis": {
     "count": 55,
     "note": 5,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "450282KRD",
+      "type": "Maison",
+      "titre": "Ferme Gessienne et terrain constructible",
+      "ville": "Farges",
+      "cp": "01550",
+      "prix": 449000,
+      "prix_txt": "449 000 €",
+      "surface": "173 m²",
+      "pieces": "3 pièces",
+      "chambres": "",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/450282KRD",
+      "image": "https://images.proprietes-privees.com/annonce/450282KRD/PROPRIETES-PRIVEES-450282KRD-1.jpg"
+    },
     {
       "ref": "462167KRD",
       "type": "Maison",
@@ -231,21 +246,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/451141KRD",
       "image": "https://images.proprietes-privees.com/annonce/451141KRD/PROPRIETES-PRIVEES-451141KRD-1.jpg"
-    },
-    {
-      "ref": "450282KRD",
-      "type": "Maison",
-      "titre": "Ferme Gessienne et terrain constructible",
-      "ville": "Farges",
-      "cp": "01550",
-      "prix": 449000,
-      "prix_txt": "449 000 €",
-      "surface": "173 m²",
-      "pieces": "3 pièces",
-      "chambres": "",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/450282KRD",
-      "image": "https://images.proprietes-privees.com/annonce/450282KRD/PROPRIETES-PRIVEES-450282KRD-1.jpg"
     },
     {
       "ref": "432264KRD",
