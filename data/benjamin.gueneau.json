@@ -1,6 +1,6 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-11-10T21:35:12.252Z",
+  "maj": "2026-11-11T11:36:10.264Z",
   "avis": {
     "count": 100,
     "note": 4.9,
@@ -8,39 +8,9 @@
   },
   "enVente": [
     {
-      "ref": "470434BJG",
-      "type": "Maison",
-      "titre": "Ancienne étable",
-      "ville": "Marcellaz-Albanais",
-      "cp": "74150",
-      "prix": 445000,
-      "prix_txt": "445 000 €",
-      "surface": "108 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/470434BJG",
-      "image": "https://images.proprietes-privees.com/annonce/470434BJG/PROPRIETES-PRIVEES-470434BJG-1.jpg"
-    },
-    {
-      "ref": "471147BJG",
-      "type": "Maison",
-      "titre": "Château – XVIème siècle avec piscine",
-      "ville": "Marcellaz-Albanais",
-      "cp": "74150",
-      "prix": 1680000,
-      "prix_txt": "1 680 000 €",
-      "surface": "461 m²",
-      "pieces": "14 pièces",
-      "chambres": "7 ch.",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/471147BJG",
-      "image": "https://images.proprietes-privees.com/annonce/471147BJG/PROPRIETES-PRIVEES-471147BJG-1.jpg"
-    },
-    {
       "ref": "466699BJG",
-      "type": "Appartement",
-      "titre": "Compromis Maison/Appartement",
+      "type": "Maison",
+      "titre": "Maison de village",
       "ville": "Annecy",
       "cp": "74000",
       "prix": 549000,
@@ -68,6 +38,21 @@
       "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
     },
     {
+      "ref": "470434BJG",
+      "type": "Maison",
+      "titre": "Maison / Ancienne étable",
+      "ville": "Marcellaz-Albanais",
+      "cp": "74150",
+      "prix": 445000,
+      "prix_txt": "445 000 €",
+      "surface": "108 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/470434BJG",
+      "image": "https://images.proprietes-privees.com/annonce/470434BJG/PROPRIETES-PRIVEES-470434BJG-1.jpg"
+    },
+    {
       "ref": "468737BJG",
       "type": "Maison",
       "titre": "Rumilly sud  – Maison de 2017, 3 chambres, jardin, DPE B",
@@ -81,6 +66,21 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/468737BJG",
       "image": "https://images.proprietes-privees.com/annonce/468737BJG/PROPRIETES-PRIVEES-468737BJG-1.jpg"
+    },
+    {
+      "ref": "471147BJG",
+      "type": "Maison",
+      "titre": "Château – XVIème siècle avec piscine",
+      "ville": "Marcellaz-Albanais",
+      "cp": "74150",
+      "prix": 1680000,
+      "prix_txt": "1 680 000 €",
+      "surface": "461 m²",
+      "pieces": "14 pièces",
+      "chambres": "7 ch.",
+      "statut": "",
+      "url": "https://www.proprietes-privees.com/annonces/471147BJG",
+      "image": "https://images.proprietes-privees.com/annonce/471147BJG/PROPRIETES-PRIVEES-471147BJG-1.jpg"
     },
     {
       "ref": "470381BJG",
