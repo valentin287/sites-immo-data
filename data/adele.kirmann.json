@@ -1,12 +1,27 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-11-09T23:54:53.957Z",
+  "maj": "2026-11-11T22:23:49.860Z",
   "avis": {
     "count": 55,
     "note": 5,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "470293KRD",
+      "type": "Maison",
+      "titre": "Maison de village avec terrasse et local commercial loué",
+      "ville": "Collonges",
+      "cp": "01550",
+      "prix": 590000,
+      "prix_txt": "590 000 €",
+      "surface": "178 m²",
+      "pieces": "7 pièces",
+      "chambres": "4 ch.",
+      "statut": "",
+      "url": "https://www.proprietes-privees.com/annonces/470293KRD",
+      "image": "https://images.proprietes-privees.com/annonce/470293KRD/PROPRIETES-PRIVEES-470293KRD-1.jpg"
+    },
     {
       "ref": "440544KRD",
       "type": "Maison",
@@ -111,21 +126,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/469407KRD",
       "image": "https://images.proprietes-privees.com/annonce/469407KRD/PROPRIETES-PRIVEES-469407KRD-1.jpg"
-    },
-    {
-      "ref": "470293KRD",
-      "type": "Maison",
-      "titre": "Maison de village avec terrasse et local commercial loué",
-      "ville": "Collonges",
-      "cp": "01550",
-      "prix": 590000,
-      "prix_txt": "590 000 €",
-      "surface": "178 m²",
-      "pieces": "7 pièces",
-      "chambres": "4 ch.",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/470293KRD",
-      "image": "https://images.proprietes-privees.com/annonce/470293KRD/PROPRIETES-PRIVEES-470293KRD-1.jpg"
     },
     {
       "ref": "457592KRD",
