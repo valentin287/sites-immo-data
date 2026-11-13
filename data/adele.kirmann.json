@@ -1,6 +1,6 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-11-11T22:23:49.860Z",
+  "maj": "2026-11-13T11:44:00.571Z",
   "avis": {
     "count": 55,
     "note": 5,
@@ -96,21 +96,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/463501KRD",
       "image": "https://images.proprietes-privees.com/annonce/463501KRD/PROPRIETES-PRIVEES-463501KRD-1.jpg"
-    },
-    {
-      "ref": "461516KRD",
-      "type": "Maison",
-      "titre": "Maison en pierre 211m2",
-      "ville": "Valleiry",
-      "cp": "74520",
-      "prix": 595000,
-      "prix_txt": "595 000 €",
-      "surface": "211 m²",
-      "pieces": "7 pièces",
-      "chambres": "4 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/461516KRD",
-      "image": "https://images.proprietes-privees.com/annonce/461516KRD/PROPRIETES-PRIVEES-461516KRD-1.jpg"
     },
     {
       "ref": "469407KRD",
