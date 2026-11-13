@@ -1,27 +1,12 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-11-12T21:58:35.861Z",
+  "maj": "2026-11-13T21:44:07.683Z",
   "avis": {
     "count": 100,
     "note": 4.9,
     "url": ""
   },
   "enVente": [
-    {
-      "ref": "470434BJG",
-      "type": "Maison",
-      "titre": "Maison / Ancienne étable",
-      "ville": "Marcellaz-Albanais",
-      "cp": "74150",
-      "prix": 445000,
-      "prix_txt": "445 000 €",
-      "surface": "108 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/470434BJG",
-      "image": "https://images.proprietes-privees.com/annonce/470434BJG/PROPRIETES-PRIVEES-470434BJG-1.jpg"
-    },
     {
       "ref": "466699BJG",
       "type": "Maison",
@@ -36,6 +21,21 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/466699BJG",
       "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
+    },
+    {
+      "ref": "470434BJG",
+      "type": "Maison",
+      "titre": "Maison / Ancienne étable",
+      "ville": "Marcellaz-Albanais",
+      "cp": "74150",
+      "prix": 445000,
+      "prix_txt": "445 000 €",
+      "surface": "108 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/470434BJG",
+      "image": "https://images.proprietes-privees.com/annonce/470434BJG/PROPRIETES-PRIVEES-470434BJG-1.jpg"
     },
     {
       "ref": "468000BJG",
