@@ -1,6 +1,6 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-11-13T21:44:07.683Z",
+  "maj": "2026-11-17T23:14:58.501Z",
   "avis": {
     "count": 100,
     "note": 4.9,
@@ -8,34 +8,34 @@
   },
   "enVente": [
     {
-      "ref": "466699BJG",
+      "ref": "471147BJG",
       "type": "Maison",
-      "titre": "Maison de village",
-      "ville": "Annecy",
-      "cp": "74000",
+      "titre": "Château – XVIème siècle avec piscine",
+      "ville": "Marcellaz-Albanais",
+      "cp": "74150",
+      "prix": 1680000,
+      "prix_txt": "1 680 000 €",
+      "surface": "460 m²",
+      "pieces": "14 pièces",
+      "chambres": "7 ch.",
+      "statut": "",
+      "url": "https://www.proprietes-privees.com/annonces/471147BJG",
+      "image": "https://images.proprietes-privees.com/annonce/471147BJG/PROPRIETES-PRIVEES-471147BJG-1.jpg"
+    },
+    {
+      "ref": "466699BJG",
+      "type": "Appartement",
+      "titre": "Appartement/Maison de village",
+      "ville": "Pringy",
+      "cp": "74370",
       "prix": 499000,
       "prix_txt": "499 000 €",
-      "surface": "114 m²",
+      "surface": "115 m²",
       "pieces": "4 pièces",
       "chambres": "3 ch.",
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/466699BJG",
       "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
-    },
-    {
-      "ref": "470434BJG",
-      "type": "Maison",
-      "titre": "Maison / Ancienne étable",
-      "ville": "Marcellaz-Albanais",
-      "cp": "74150",
-      "prix": 445000,
-      "prix_txt": "445 000 €",
-      "surface": "108 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/470434BJG",
-      "image": "https://images.proprietes-privees.com/annonce/470434BJG/PROPRIETES-PRIVEES-470434BJG-1.jpg"
     },
     {
       "ref": "468000BJG",
@@ -45,12 +45,27 @@
       "cp": "73410",
       "prix": 565000,
       "prix_txt": "565 000 €",
-      "surface": "165 m²",
+      "surface": "152 m²",
       "pieces": "7 pièces",
       "chambres": "6 ch.",
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/468000BJG",
       "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
+    },
+    {
+      "ref": "470434BJG",
+      "type": "Maison",
+      "titre": "Maison / Ancienne étable",
+      "ville": "Marcellaz-Albanais",
+      "cp": "74150",
+      "prix": 445000,
+      "prix_txt": "445 000 €",
+      "surface": "105 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/470434BJG",
+      "image": "https://images.proprietes-privees.com/annonce/470434BJG/PROPRIETES-PRIVEES-470434BJG-1.jpg"
     },
     {
       "ref": "468737BJG",
@@ -66,21 +81,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/468737BJG",
       "image": "https://images.proprietes-privees.com/annonce/468737BJG/PROPRIETES-PRIVEES-468737BJG-1.jpg"
-    },
-    {
-      "ref": "471147BJG",
-      "type": "Maison",
-      "titre": "Château – XVIème siècle avec piscine",
-      "ville": "Marcellaz-Albanais",
-      "cp": "74150",
-      "prix": 1680000,
-      "prix_txt": "1 680 000 €",
-      "surface": "461 m²",
-      "pieces": "14 pièces",
-      "chambres": "7 ch.",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/471147BJG",
-      "image": "https://images.proprietes-privees.com/annonce/471147BJG/PROPRIETES-PRIVEES-471147BJG-1.jpg"
     },
     {
       "ref": "470381BJG",
