@@ -1,6 +1,6 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-11-14T11:06:02.648Z",
+  "maj": "2026-11-19T22:50:13.113Z",
   "avis": {
     "count": 55,
     "note": 5,
@@ -156,21 +156,6 @@
       "statut": "",
       "url": "https://www.proprietes-privees.com/annonces/457727KRD",
       "image": "https://images.proprietes-privees.com/annonce/457727KRD/PROPRIETES-PRIVEES-457727KRD-1.jpg"
-    },
-    {
-      "ref": "467507KRD",
-      "type": "Maison",
-      "titre": "Maison récente 4 chambres avec jardin et garage à Farges (01550)",
-      "ville": "Farges",
-      "cp": "01550",
-      "prix": 549000,
-      "prix_txt": "549 000 €",
-      "surface": "113 m²",
-      "pieces": "5 pièces",
-      "chambres": "4 ch.",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/467507KRD",
-      "image": "https://images.proprietes-privees.com/annonce/467507KRD/PROPRIETES-PRIVEES-467507KRD-1.jpg"
     },
     {
       "ref": "441979KRD",

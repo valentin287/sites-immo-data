@@ -1,12 +1,42 @@
 {
   "conseiller": "benjamin.gueneau",
-  "maj": "2026-11-19T12:20:14.490Z",
+  "maj": "2026-11-19T22:50:10.386Z",
   "avis": {
     "count": 100,
     "note": 4.9,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "468000BJG",
+      "type": "Maison",
+      "titre": "Maison  individuelle",
+      "ville": "Saint-Felix",
+      "cp": "74540",
+      "prix": 565000,
+      "prix_txt": "565 000 €",
+      "surface": "152 m²",
+      "pieces": "7 pièces",
+      "chambres": "6 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/468000BJG",
+      "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
+    },
+    {
+      "ref": "466699BJG",
+      "type": "Maison",
+      "titre": "Maison de village",
+      "ville": "Pringy",
+      "cp": "74370",
+      "prix": 499000,
+      "prix_txt": "499 000 €",
+      "surface": "115 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/466699BJG",
+      "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
+    },
     {
       "ref": "470434BJG",
       "type": "Maison",
@@ -36,36 +66,6 @@
       "statut": "",
       "url": "https://www.proprietes-privees.com/annonces/471147BJG",
       "image": "https://images.proprietes-privees.com/annonce/471147BJG/PROPRIETES-PRIVEES-471147BJG-1.jpg"
-    },
-    {
-      "ref": "466699BJG",
-      "type": "Appartement",
-      "titre": "Appartement/Maison de village",
-      "ville": "Pringy",
-      "cp": "74370",
-      "prix": 499000,
-      "prix_txt": "499 000 €",
-      "surface": "115 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/466699BJG",
-      "image": "https://images.proprietes-privees.com/annonce/466699BJG/PROPRIETES-PRIVEES-466699BJG-1.jpg"
-    },
-    {
-      "ref": "468000BJG",
-      "type": "Maison",
-      "titre": "Maison  individuelle",
-      "ville": "Albens",
-      "cp": "73410",
-      "prix": 565000,
-      "prix_txt": "565 000 €",
-      "surface": "152 m²",
-      "pieces": "7 pièces",
-      "chambres": "6 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/468000BJG",
-      "image": "https://images.proprietes-privees.com/annonce/468000BJG/PROPRIETES-PRIVEES-468000BJG-1.jpg"
     },
     {
       "ref": "468737BJG",
