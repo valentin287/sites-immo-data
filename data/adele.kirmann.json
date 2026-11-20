@@ -1,12 +1,27 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-11-19T22:50:13.113Z",
+  "maj": "2026-11-20T22:27:36.075Z",
   "avis": {
     "count": 55,
     "note": 5,
     "url": ""
   },
   "enVente": [
+    {
+      "ref": "472965KRD",
+      "type": "Maison",
+      "titre": "Maison de village 4 pièces",
+      "ville": "Peron",
+      "cp": "01630",
+      "prix": 469000,
+      "prix_txt": "469 000 €",
+      "surface": "115 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "",
+      "url": "https://www.proprietes-privees.com/annonces/472965KRD",
+      "image": "https://images.proprietes-privees.com/annonce/472965KRD/PROPRIETES-PRIVEES-472965KRD-1.jpg"
+    },
     {
       "ref": "451141KRD",
       "type": "Maison",
