@@ -1,6 +1,6 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-11-24T02:41:40.880Z",
+  "maj": "2026-11-25T13:44:46.377Z",
   "avis": {
     "count": 55,
     "note": 5,
@@ -126,21 +126,6 @@
       "statut": "Exclusivité",
       "url": "https://www.proprietes-privees.com/annonces/469407KRD",
       "image": "https://images.proprietes-privees.com/annonce/469407KRD/PROPRIETES-PRIVEES-469407KRD-1.jpg"
-    },
-    {
-      "ref": "457592KRD",
-      "type": "Maison",
-      "titre": "Maison individuelle 4 chambres avec jardin de 900 m² à Collonges (01550)",
-      "ville": "Collonges",
-      "cp": "01550",
-      "prix": 563000,
-      "prix_txt": "563 000 €",
-      "surface": "128 m²",
-      "pieces": "5 pièces",
-      "chambres": "4 ch.",
-      "statut": "",
-      "url": "https://www.proprietes-privees.com/annonces/457592KRD",
-      "image": "https://images.proprietes-privees.com/annonce/457592KRD/PROPRIETES-PRIVEES-457592KRD-1.jpg"
     },
     {
       "ref": "457727KRD",
