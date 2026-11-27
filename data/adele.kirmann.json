@@ -1,6 +1,6 @@
 {
   "conseiller": "adele.kirmann",
-  "maj": "2026-11-25T23:54:57.419Z",
+  "maj": "2026-11-27T00:11:17.729Z",
   "avis": {
     "count": 55,
     "note": 5,
@@ -23,19 +23,19 @@
       "image": "https://images.proprietes-privees.com/annonce/470293KRD/PROPRIETES-PRIVEES-470293KRD-1.jpg"
     },
     {
-      "ref": "472965KRD",
+      "ref": "462167KRD",
       "type": "Maison",
-      "titre": "Maison de village 4 pièces",
-      "ville": "Peron",
-      "cp": "01630",
-      "prix": 469000,
-      "prix_txt": "469 000 €",
-      "surface": "115 m²",
-      "pieces": "4 pièces",
-      "chambres": "3 ch.",
+      "titre": "Maison individuelle",
+      "ville": "Collonges",
+      "cp": "01550",
+      "prix": 640000,
+      "prix_txt": "640 000 €",
+      "surface": "130 m²",
+      "pieces": "6 pièces",
+      "chambres": "4 ch.",
       "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/472965KRD",
-      "image": "https://images.proprietes-privees.com/annonce/472965KRD/PROPRIETES-PRIVEES-472965KRD-1.jpg"
+      "url": "https://www.proprietes-privees.com/annonces/462167KRD",
+      "image": "https://images.proprietes-privees.com/annonce/462167KRD/PROPRIETES-PRIVEES-462167KRD-1.jpg"
     },
     {
       "ref": "473422KRD",
@@ -68,6 +68,21 @@
       "image": "https://images.proprietes-privees.com/annonce/463501KRD/PROPRIETES-PRIVEES-463501KRD-1.jpg"
     },
     {
+      "ref": "472965KRD",
+      "type": "Maison",
+      "titre": "Maison de village 4 pièces",
+      "ville": "Peron",
+      "cp": "01630",
+      "prix": 469000,
+      "prix_txt": "469 000 €",
+      "surface": "115 m²",
+      "pieces": "4 pièces",
+      "chambres": "3 ch.",
+      "statut": "Exclusivité",
+      "url": "https://www.proprietes-privees.com/annonces/472965KRD",
+      "image": "https://images.proprietes-privees.com/annonce/472965KRD/PROPRIETES-PRIVEES-472965KRD-1.jpg"
+    },
+    {
       "ref": "457727KRD",
       "type": "Maison",
       "titre": "Maison individuelle récente 127 m²",
@@ -81,21 +96,6 @@
       "statut": "",
       "url": "https://www.proprietes-privees.com/annonces/457727KRD",
       "image": "https://images.proprietes-privees.com/annonce/457727KRD/PROPRIETES-PRIVEES-457727KRD-1.jpg"
-    },
-    {
-      "ref": "462167KRD",
-      "type": "Maison",
-      "titre": "Maison individuelle",
-      "ville": "Collonges",
-      "cp": "01550",
-      "prix": 640000,
-      "prix_txt": "640 000 €",
-      "surface": "130 m²",
-      "pieces": "6 pièces",
-      "chambres": "4 ch.",
-      "statut": "Exclusivité",
-      "url": "https://www.proprietes-privees.com/annonces/462167KRD",
-      "image": "https://images.proprietes-privees.com/annonce/462167KRD/PROPRIETES-PRIVEES-462167KRD-1.jpg"
     },
     {
       "ref": "473263KRD",
